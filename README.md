@@ -15,9 +15,9 @@
 <pre>flutter run</pre>
 - Make sure to save main.dart and other dart files in VSCode if there is changes in the code
 - Use Hot Reload to test the widgets on the Virtual Machine
-- <pre>r</pre>
+<pre>r</pre>
 - Use Hot Restart if Hot Reload does not make any changes on the Virtual Machine
-- <pre>R</pre>
+<pre>R</pre>
 ## Documentation
 - main.dart file:
 **The code is in the /lib folder**
